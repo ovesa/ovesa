@@ -1,5 +1,5 @@
 :star2: Oana \
-:star2: 3rd year astronomy PhD student \
+:star2: 6th year astronomy PhD student \
 :star2: Research Interests: MHD waves and oscillations, lower solar atmosphere, magnetic fields, solar tornadoes
 
 
